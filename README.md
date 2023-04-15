@@ -4,5 +4,6 @@ Hey there. Play Snake game by following these steps:
 1. Download the file and open it
 2. Install turtle module by running 
 ## pip install turtle
-4. Play game by running in terminal:
+4. Play game by running 
 ## py snake_game.py  
+in terminal
